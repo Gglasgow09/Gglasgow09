@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @Gglasgow09
- Self taught software engineer, just here to practice and learn 
+# 💫 About Me:
+I am a recent graduate of the JUMP program, specializing in Data Engineering, with a passion for leveraging technology to drive meaningful insights and solutions. My journey began with a Bachelor's degree in Business Administration, complemented by a minor in Economics, providing me with a solid foundation in analytical thinking and problem-solving. During my tenure at Cognixia, I honed my skills in data engineering, mastering tools such as Python, Pandas, and SQL to manipulate and analyze real-world datasets. I am proficient in version control using Git, ensuring seamless collaboration and code management within teams. My stint at Catbear Games as a Junior Software Developer further enriched my technical expertise, where I embraced Test-Driven Development methodologies to create reliable and scalable backend logic for gaming applications. In my previous role at Justworks, I excelled in sales development, demonstrating a knack for identifying and engaging qualified prospects, which significantly contributed to the company's sales pipeline growth.<br><br>Outside of my professional pursuits, I am passionate about personal projects that allow me to explore my creativity and apply my technical skills. Whether it's building a restaurant database utilizing Pandas and SQL or developing a full-stack application like TradeTrackr, I thrive on the challenge of creating innovative solutions that address real-world problems. Driven by a strong digital mindset and a relentless pursuit of excellence, I am eager to leverage my diverse skill set and industry experience to make a meaningful impact in the field of data engineering. I am excited about the opportunity to contribute to your organization and embark on a journey of continuous growth and learning.
 
-<!---
-Gglasgow09/Gglasgow09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gglasgow/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@g.glasgow91) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gglasgow09&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gglasgow09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gglasgow09&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
